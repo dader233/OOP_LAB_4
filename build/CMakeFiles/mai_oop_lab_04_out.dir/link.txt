@@ -1,0 +1,1 @@
+/usr/local/bin/c++ CMakeFiles/mai_oop_lab_04_out.dir/main.cpp.o -o mai_oop_lab_04_out 
